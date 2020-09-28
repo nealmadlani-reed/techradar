@@ -1,119 +1,111 @@
-name,ring,quadrant,isNew,description,Count,Last Updated,Ecomm,Mobile,JobSeeker EX,Recruiter EX,Search,Shared Services & Platforms,BI,QE,Design,Architecture,DevOps,Data Science
-.Net Blazor,Assess,Languages & Frameworks,TRUE,<p>New Web frontend framework using C#</p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-.NET Core,Adopt,Languages & Frameworks,TRUE,<p></p>,11,05/08/2020,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE
-Adobe Creative Cloud,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-AdobeTarget,Adopt,Tools & Infrastructure,FALSE,<p></p>,2,05/08/2020,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Adverity,Adopt,Data Management,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Airflow,Assess,Languages & Frameworks,TRUE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Alert Logic,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Ansible,Adopt,Tools & Infrastructure,FALSE,<p>Recommend using Ansible sparingly and only for it's correct purpose. Use Terraform where possible</p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-AppDynamics,Adopt,Tools & Infrastructure,FALSE,<p>Observability tool</p>,8,05/08/2020,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
-AppsFlyer,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Auth0 (OAuth),Adopt,Languages & Frameworks,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-AWS cloud9,Adopt,Tools & Infrastructure,FALSE,<p>IDE</p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-AWS DynamoDB,Adopt,Tools & Infrastructure,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
-AWS ECS (Elastic Container Service),Hold,Tools & Infrastructure,FALSE,<p>Use EKS instead</p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-AWS EKS (Elastic Kubernetes Service),Adopt,Tools & Infrastructure,TRUE,<p></p>,5,05/08/2020,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
-AWS Elastic Container Registry,Adopt,Tools & Infrastructure,FALSE,<p></p>,5,05/08/2020,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
-AWS Kafka,Assess,Tools & Infrastructure,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-AWS Kinesis,Assess,Data Management,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-AWS Lambda,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-AWS RDS (Relational Database Service),Adopt,Data Management,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-AWS S3,Adopt,Tools & Infrastructure,FALSE,<p></p>,7,05/08/2020,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
-AWS Sagemaker,Hold,Languages & Frameworks,FALSE,<p>Use KubeFlow instead</p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
-AWS Secrets Manager,Adopt,Tools & Infrastructure,FALSE,<p></p>,7,05/08/2020,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
-AWS Serverless Application Model,Trial,Languages & Frameworks,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-AWS SNS (Simple Notification Service),Adopt,Tools & Infrastructure,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-AWS SQS (Simple Queue Service),Adopt,Tools & Infrastructure,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-Azure Bot Framework,Adopt,Languages & Frameworks,TRUE,<p></p>,2,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Azure DevOps,Adopt,Tools & Infrastructure,FALSE,<p>Build system</p>,10,05/08/2020,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
-Bash,Adopt,Languages & Frameworks,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
-BigQuery,Adopt,Data Management,FALSE,<p></p>,3,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
-Bit bucket,Hold,Tools & Infrastructure,FALSE,<p>Used sparingly to hold Terraform to enable Ensono. Don't use for other use-cases</p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Branch.io,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Braze,Adopt,Platforms,TRUE,<p></p>,10,05/08/2020,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
-C#,Adopt,Languages & Frameworks,FALSE,<p></p>,8,05/08/2020,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
-Cloudflare,Adopt,Tools & Infrastructure,FALSE,<p></p>,5,05/08/2020,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Confluence,Adopt,Tools & Infrastructure,FALSE,<p></p>,5,05/08/2020,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
-Cypress,Adopt,Languages & Frameworks,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-DBT (Data Build Tool),Assess,Languages & Frameworks,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Docker,Adopt,Tools & Infrastructure,FALSE,<p></p>,5,05/08/2020,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
-Draw.io / diagrams.net,Adopt,Tools & Infrastructure,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Elasticsearch,Adopt,Tools & Infrastructure,FALSE,<p></p>,4,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
-Elasticsearch,Adopt,Languages & Frameworks,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Express.js,Adopt,Languages & Frameworks,FALSE,<p></p>,2,05/08/2020,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-Firebase,Adopt,Platforms,TRUE,<p></p>,1,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Fluentbit,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Funretro.io,Trial,Tools & Infrastructure,TRUE,<p>Teams are using this in isolation. We need delivery team to own the deicison</p>,3,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
-Git,Adopt,Tools & Infrastructure,FALSE,<p></p>,5,05/08/2020,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
-Github,Adopt,Tools & Infrastructure,FALSE,<p></p>,5,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE
-Golang,Assess,Languages & Frameworks,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Google Cloud Platform,Adopt,Tools & Infrastructure,FALSE,<p></p>,5,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE
-Google CloudRun,Trial,Tools & Infrastructure,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Google GKE (Google Kubernetes Engine),Assess,Tools & Infrastructure,TRUE,<p></p>,0,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Google Tag Manager,Adopt,Data Management,FALSE,<p></p>,2,05/08/2020,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Grafana,Adopt,Tools & Infrastructure,FALSE,<p></p>,5,05/08/2020,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
-Hangfire,Adopt,Languages & Frameworks,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-Identity Server (OAuth),Hold,Languages & Frameworks,FALSE,<p>Use Auth0 instead</p>,3,05/08/2020,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-Invision,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-JavaScript,Adopt,Languages & Frameworks,FALSE,<p></p>,7,05/08/2020,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
-Jest,Adopt,Languages & Frameworks,FALSE,<p></p>,2,05/08/2020,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
-Jira,Adopt,Tools & Infrastructure,FALSE,<p></p>,6,05/08/2020,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
-JMeter,Hold,Tools & Infrastructure,FALSE,<p>Use Taurus instead</p>,0,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Kibana,Adopt,Tools & Infrastructure,FALSE,<p></p>,7,05/08/2020,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
-Kong,Adopt,Tools & Infrastructure,TRUE,<p></p>,3,05/08/2020,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-Kotlin,Adopt,Languages & Frameworks,TRUE,<p></p>,1,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-KubeFlow,Adopt,Tools & Infrastructure,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
-LetsEncrypt,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Lookback,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-Looker,Adopt,Data Management,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Lucidchart,Hold,Tools & Infrastructure,FALSE,"<p>License revoked, last day Sept 18. Use diagrams.net instead</p>",4,05/08/2020,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
-Miro,Hold,Tools & Infrastructure,TRUE,<p>Expensive. Use draw.io instead</p>,3,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
-MS SQL Server,Adopt,Data Management,FALSE,<p></p>,4,05/08/2020,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-nginx,Adopt,Tools & Infrastructure,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Node.js,Adopt,Tools & Infrastructure,FALSE,<p></p>,3,05/08/2020,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
-NUnit,Adopt,Languages & Frameworks,FALSE,<p></p>,3,05/08/2020,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-Octopus,Hold,Tools & Infrastructure,FALSE,<p>Use Azure DevOps instead</p>,7,05/08/2020,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Okta,Adopt,Tools & Infrastructure,FALSE,<p></p>,4,05/08/2020,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
-OneTrust SDK,Adopt,Platforms,TRUE,<p></p>,1,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Open policy agent,Trial,Languages & Frameworks,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Pact.io,Assess,Languages & Frameworks,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
-Postgre SQL,Adopt,Data Management,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
-Postman,Adopt,Tools & Infrastructure,FALSE,<p></p>,5,05/08/2020,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
-Principle,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-Prometheus,Trial,Tools & Infrastructure,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Pulumi,Trial,Tools & Infrastructure,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Python,Adopt,Languages & Frameworks,FALSE,<p></p>,4,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE
-React,Adopt,Languages & Frameworks,FALSE,<p></p>,2,05/08/2020,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Redis,Adopt,Tools & Infrastructure,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-Retrotool.io,Assess,Tools & Infrastructure,TRUE,<p>Teams are using this in isolation. We need delivery team to own the deicison</p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Salesforce Marketing Cloud,Hold,Platforms,FALSE,<p>Use Braze instead</p>,1,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Salesforce Pardot,Hold,Data Management,FALSE,<p>Use Braze instead</p>,0,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Serverless Framework,Trial,Languages & Frameworks,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Sketch,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-Snowflake,Adopt,Data Management,FALSE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
-Snyk,Assess,Languages & Frameworks,TRUE,<p></p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
-Sonarqube,Adopt,Tools & Infrastructure,FALSE,<p></p>,4,05/08/2020,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Speedcurve.com,Adopt,Tools & Infrastructure,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-SQL,Adopt,Languages & Frameworks,FALSE,<p>Database language</p>,8,05/08/2020,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
-Swift,Adopt,Languages & Frameworks,TRUE,<p></p>,1,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Talend,Adopt,Tools & Infrastructure,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Taurus,Adopt,Tools & Infrastructure,FALSE,<p></p>,4,05/08/2020,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
-TeamCity,Hold,Tools & Infrastructure,FALSE,<p>Use Azure DevOps instead</p>,7,05/08/2020,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Terraform,Adopt,Tools & Infrastructure,TRUE,<p></p>,8,05/08/2020,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
-Trivy,Adopt,Languages & Frameworks,FALSE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Web Page Test,Hold,Tools & Infrastructure,FALSE,<p>Use speedcurve.com instead</p>,2,05/08/2020,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-WebDriver IO,Adopt,Languages & Frameworks,FALSE,<p></p>,4,05/08/2020,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
-Whitesource bolt,Hold,Languages & Frameworks,TRUE,<p>Use Snyk instead</p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-wit.ai,Trial,Languages & Frameworks,TRUE,<p></p>,1,05/08/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-Xamarin,Adopt,Languages & Frameworks,FALSE,<p></p>,1,05/08/2020,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-XUnit,Adopt,Languages & Frameworks,FALSE,<p></p>,4,05/08/2020,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-Zeplin,Adopt,Tools & Infrastructure,FALSE,<p></p>,3,05/08/2020,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-,,,,,0,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,,,,,0,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,,,,,0,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,,,,,0,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,,,,,0,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,,,,,0,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,,,,,0,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-,,,,,0,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+name,ring,quadrant,isNew,description
+.Net Blazor,Assess,Languages & Frameworks,TRUE,<p>New Web frontend framework using C#</p>
+.NET Core,Adopt,Languages & Frameworks,TRUE,<p></p>
+Adobe Creative Cloud,Adopt,Tools & Infrastructure,FALSE,<p></p>
+AdobeTarget,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Adverity,Adopt,Data Management,FALSE,<p></p>
+Airflow,Assess,Languages & Frameworks,TRUE,<p></p>
+Alert Logic,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Ansible,Adopt,Tools & Infrastructure,FALSE,<p>Recommend using Ansible sparingly and only for it's correct purpose. Use Terraform where possible</p>
+AppDynamics,Adopt,Tools & Infrastructure,FALSE,<p>Observability tool</p>
+AppsFlyer,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Auth0 (OAuth),Adopt,Languages & Frameworks,FALSE,<p></p>
+AWS cloud9,Adopt,Tools & Infrastructure,FALSE,<p>IDE</p>
+AWS DynamoDB,Adopt,Tools & Infrastructure,FALSE,<p></p>
+AWS ECS (Elastic Container Service),Hold,Tools & Infrastructure,FALSE,<p>Use EKS instead</p>
+AWS EKS (Elastic Kubernetes Service),Adopt,Tools & Infrastructure,TRUE,<p></p>
+AWS Elastic Container Registry,Adopt,Tools & Infrastructure,FALSE,<p></p>
+AWS Kafka,Assess,Tools & Infrastructure,TRUE,<p></p>
+AWS Kinesis,Assess,Data Management,TRUE,<p></p>
+AWS Lambda,Adopt,Tools & Infrastructure,FALSE,<p></p>
+AWS RDS (Relational Database Service),Adopt,Data Management,FALSE,<p></p>
+AWS S3,Adopt,Tools & Infrastructure,FALSE,<p></p>
+AWS Sagemaker,Hold,Languages & Frameworks,FALSE,<p>Use KubeFlow instead</p>
+AWS Secrets Manager,Adopt,Tools & Infrastructure,FALSE,<p></p>
+AWS Serverless Application Model,Trial,Languages & Frameworks,TRUE,<p></p>
+AWS SNS (Simple Notification Service),Adopt,Tools & Infrastructure,FALSE,<p></p>
+AWS SQS (Simple Queue Service),Adopt,Tools & Infrastructure,FALSE,<p></p>
+Azure Bot Framework,Adopt,Languages & Frameworks,TRUE,<p></p>
+Azure DevOps,Adopt,Tools & Infrastructure,FALSE,<p>Build system</p>
+Bash,Adopt,Languages & Frameworks,FALSE,<p></p>
+BigQuery,Adopt,Data Management,FALSE,<p></p>
+Bit bucket,Hold,Tools & Infrastructure,FALSE,<p>Used sparingly to hold Terraform to enable Ensono. Don't use for other use-cases</p>
+Branch.io,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Braze,Adopt,Platforms,TRUE,<p></p>
+C#,Adopt,Languages & Frameworks,FALSE,<p></p>
+Cloudflare,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Confluence,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Cypress,Adopt,Languages & Frameworks,FALSE,<p></p>
+DBT (Data Build Tool),Assess,Languages & Frameworks,TRUE,<p></p>
+Docker,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Draw.io / diagrams.net,Adopt,Tools & Infrastructure,TRUE,<p></p>
+Elasticsearch,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Elasticsearch,Adopt,Languages & Frameworks,FALSE,<p></p>
+Express.js,Adopt,Languages & Frameworks,FALSE,<p></p>
+Firebase,Adopt,Platforms,TRUE,<p></p>
+Fluentbit,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Funretro.io,Trial,Tools & Infrastructure,TRUE,<p>Teams are using this in isolation. We need delivery team to own the deicison</p>
+Git,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Github,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Golang,Assess,Languages & Frameworks,TRUE,<p></p>
+Google Cloud Platform,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Google CloudRun,Trial,Tools & Infrastructure,TRUE,<p></p>
+Google GKE (Google Kubernetes Engine),Assess,Tools & Infrastructure,TRUE,<p></p>
+Google Tag Manager,Adopt,Data Management,FALSE,<p></p>
+Grafana,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Hangfire,Adopt,Languages & Frameworks,FALSE,<p></p>
+Identity Server (OAuth),Hold,Languages & Frameworks,FALSE,<p>Use Auth0 instead</p>
+Invision,Adopt,Tools & Infrastructure,FALSE,<p></p>
+JavaScript,Adopt,Languages & Frameworks,FALSE,<p></p>
+Jest,Adopt,Languages & Frameworks,FALSE,<p></p>
+Jira,Adopt,Tools & Infrastructure,FALSE,<p></p>
+JMeter,Hold,Tools & Infrastructure,FALSE,<p>Use Taurus instead</p>
+Kibana,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Kong,Adopt,Tools & Infrastructure,TRUE,<p></p>
+Kotlin,Adopt,Languages & Frameworks,TRUE,<p></p>
+KubeFlow,Adopt,Tools & Infrastructure,TRUE,<p></p>
+LetsEncrypt,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Lookback,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Looker,Adopt,Data Management,FALSE,<p></p>
+Lucidchart,Hold,Tools & Infrastructure,FALSE,"<p>License revoked, last day Sept 18. Use diagrams.net instead</p>"
+Miro,Hold,Tools & Infrastructure,TRUE,<p>Expensive. Use draw.io instead</p>
+MS SQL Server,Adopt,Data Management,FALSE,<p></p>
+nginx,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Node.js,Adopt,Tools & Infrastructure,FALSE,<p></p>
+NUnit,Adopt,Languages & Frameworks,FALSE,<p></p>
+Octopus,Hold,Tools & Infrastructure,FALSE,<p>Use Azure DevOps instead</p>
+Okta,Adopt,Tools & Infrastructure,FALSE,<p></p>
+OneTrust SDK,Adopt,Platforms,TRUE,<p></p>
+Open policy agent,Trial,Languages & Frameworks,TRUE,<p></p>
+Pact.io,Assess,Languages & Frameworks,TRUE,<p></p>
+Postgre SQL,Adopt,Data Management,FALSE,<p></p>
+Postman,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Principle,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Prometheus,Trial,Tools & Infrastructure,TRUE,<p></p>
+Pulumi,Trial,Tools & Infrastructure,TRUE,<p></p>
+Python,Adopt,Languages & Frameworks,FALSE,<p></p>
+React,Adopt,Languages & Frameworks,FALSE,<p></p>
+Redis,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Retrotool.io,Assess,Tools & Infrastructure,TRUE,<p>Teams are using this in isolation. We need delivery team to own the deicison</p>
+Salesforce Marketing Cloud,Hold,Platforms,FALSE,<p>Use Braze instead</p>
+Salesforce Pardot,Hold,Data Management,FALSE,<p>Use Braze instead</p>
+Serverless Framework,Trial,Languages & Frameworks,FALSE,<p></p>
+Sketch,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Snowflake,Adopt,Data Management,FALSE,<p></p>
+Snyk,Assess,Languages & Frameworks,TRUE,<p></p>
+Sonarqube,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Speedcurve.com,Adopt,Tools & Infrastructure,TRUE,<p></p>
+SQL,Adopt,Languages & Frameworks,FALSE,<p>Database language</p>
+Swift,Adopt,Languages & Frameworks,TRUE,<p></p>
+Talend,Adopt,Tools & Infrastructure,FALSE,<p></p>
+Taurus,Adopt,Tools & Infrastructure,FALSE,<p></p>
+TeamCity,Hold,Tools & Infrastructure,FALSE,<p>Use Azure DevOps instead</p>
+Terraform,Adopt,Tools & Infrastructure,TRUE,<p></p>
+Trivy,Adopt,Languages & Frameworks,FALSE,<p></p>
+Web Page Test,Hold,Tools & Infrastructure,FALSE,<p>Use speedcurve.com instead</p>
+WebDriver IO,Adopt,Languages & Frameworks,FALSE,<p></p>
+Whitesource bolt,Hold,Languages & Frameworks,TRUE,<p>Use Snyk instead</p>
+wit.ai,Trial,Languages & Frameworks,TRUE,<p></p>
+Xamarin,Adopt,Languages & Frameworks,FALSE,<p></p>
+XUnit,Adopt,Languages & Frameworks,FALSE,<p></p>
+Zeplin,Adopt,Tools & Infrastructure,FALSE,<p></p>
